@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace DictVotes
+namespace VoteCount
 {
     class Program
     {
